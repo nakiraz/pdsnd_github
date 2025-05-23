@@ -11,6 +11,12 @@ This project focuses on analyzing bikeshare data from various cities to uncover 
 ### Files used
 bikeshare.py
 
+### Project Details 
+This is the third and last project for the Udacity nanodegree
+
+### Student name 
+Mo Nakira
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
