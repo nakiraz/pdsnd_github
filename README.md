@@ -7,8 +7,7 @@
 GitHub Project
 
 ### Description
-Using github
-
+This project focuses on analyzing bikeshare data from various cities to uncover trends in ridership, user behavior, and time-based usage patterns. It leverages Python for data processing and Git for version control.
 ### Files used
 bikeshare.py
 
